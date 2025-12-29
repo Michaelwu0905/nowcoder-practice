@@ -11,4 +11,4 @@ for char in s[::-1]:
         res.append(char)    # 在结果列表中存入字符
 
 # 拼接输出
-print("".join(res))
+print("".join(res)) # "分割符".join(要拼接的列表)
